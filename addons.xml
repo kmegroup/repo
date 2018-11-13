@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="program.kme" version="3.8.7" name="[COLOR white]KME[/COLOR] [COLOR FF028ddd]TV[/COLOR]" provider-name="KME TV">
+<addon id="program.kme" version="3.9.0" name="[COLOR white]KME[/COLOR] [COLOR FF028ddd]TV[/COLOR]" provider-name="KME TV">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 		<import addon="script.module.requests"/>
@@ -12,7 +12,7 @@
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
 	</extension>
-	<extension point="xbmc.service" library="service.py" start="startup"/>
+	<extension point="xbmc.service" library="service.py"/>
 	<extension point="xbmc.addon.metadata">
 		<summary>KME TV - Watch for the B-E-S-T!</summary>
 		<platform>all</platform>

@@ -1,3 +1,14 @@
+[B]3.9.0[/B]
++ Fix: Addon service not video addon
++ Fix: PVR disabled other addons
+
+[B]3.8.9[/B]
++ Fix: Kodi 17/18 VOD wall
+
+[B]3.8.8[/B]
++ Fix: Kodi 18 PVR not loading
++ Fix: Kodi 17/18 search VOD
+
 [B]3.8.7[/B]
 + Add: Netflix under TV shows
 
