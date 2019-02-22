@@ -1,3 +1,11 @@
+[B]3.9.2[/B]
++ Add: Movies Netflix Category
++ Add: Tv shows Kids Category
++ Fix: Wall add title n year
+
+[B]3.9.1[/B]
++ Fix: Netflix Category
+
 [B]3.9.0[/B]
 + Fix: Addon service not video addon
 + Fix: PVR disabled other addons

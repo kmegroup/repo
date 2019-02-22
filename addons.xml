@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="program.kme" version="3.9.0" name="[COLOR white]KME[/COLOR] [COLOR FF028ddd]TV[/COLOR]" provider-name="KME TV">
+<addon id="program.kme" version="3.9.2" name="[COLOR white]KME[/COLOR] [COLOR FF028ddd]TV[/COLOR]" provider-name="KME TV">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 		<import addon="script.module.requests"/>
