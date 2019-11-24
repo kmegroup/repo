@@ -14,7 +14,7 @@
 	</extension>
 	<extension point="xbmc.service" library="service.py"/>
 	<extension point="xbmc.addon.metadata">
-		<summary>KME TV - Watch for the B-E-S-T!</summary>
+		<summary>KME TV - The Ultimate TV Entertainment!</summary>
 		<platform>all</platform>
 	</extension>
 </addon>
